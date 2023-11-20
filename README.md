@@ -1,6 +1,6 @@
 # AIPersonalityResearch
 
-Over the course of a semester (08/2022 - 12/2022) research into the importance of AI personality preference by user was conducted.
+Over the course of a semester (08/2022 - 08/2023) research into the importance of AI personality preference by user was conducted.
 
 Catherine Baker completed research on emoji interpretation and use by extroverts and introverts through survey and literature review. This data culminated in a conclusion that extroverts tend to use emojis that convey a lesser intensity of emotions than introverts. Furthermore, we also concluded that introverts tend to use emojis that convey a greater intensity of emotions than extroverts. This research was combined with research by Tom Gu on chatbots.
 
